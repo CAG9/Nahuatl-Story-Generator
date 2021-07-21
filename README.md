@@ -1,1 +1,2 @@
-# Story-Generator-Nahuatl
+# SGN
+## Story-Generator-Nahuatl
